@@ -1,0 +1,20 @@
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\bin\Debug\Puzzle_Proje.exe.config
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\bin\Debug\Puzzle_Proje.exe
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\bin\Debug\Puzzle_Proje.pdb
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.csprojAssemblyReference.cache
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.Form1.resources
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.Properties.Resources.resources
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.exe
+C:\Users\Salih\Desktop\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.pdb
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\bin\Debug\Puzzle_Proje.exe.config
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\bin\Debug\Puzzle_Proje.exe
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\bin\Debug\Puzzle_Proje.pdb
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.csprojAssemblyReference.cache
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.Form1.resources
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.Properties.Resources.resources
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.csproj.GenerateResource.cache
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.csproj.CoreCompileInputs.cache
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.exe
+C:\Users\burcu\Downloads\BurcuArslan_SalihSalur (1)\Puzzle_Proje\Puzzle_Proje\obj\Debug\Puzzle_Proje.pdb
